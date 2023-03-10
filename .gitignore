@@ -1,2 +1,4 @@
+*.csv
+
 .log_in.csv
 log_in.csv
